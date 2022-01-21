@@ -60,7 +60,7 @@ class MessengerBotChatTaskWorld(World):
             self.agent.observe(
                 {
                     'id': 'World',
-                    'text': 'Welcome to the ParlAI Chatbot demo. '
+                    'text': 'Welcome to the Jackbot demo. '
                     'You are now paired with a bot - feel free to send a message.'
                     'Type [DONE] to finish the chat, or [RESET] to reset the dialogue history.',
                 }
